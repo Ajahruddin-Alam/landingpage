@@ -1,0 +1,20 @@
+
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: rgb(79, 32, 189);
+}
+header{
+    display: flex;
+    color: white;
+}
+section{
+    display: flex;
+    margin-top: 20px;
+    columns: 6fr 6fr;
+}
+.box{
+    border-radius: 10px;
+    padding: 5px;
+}
